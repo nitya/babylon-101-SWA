@@ -17,6 +17,7 @@
     "vue": "^3.2.13"
   },
   "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.0.2",
     "@babylonjs/inspector": "^5.15.1",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
