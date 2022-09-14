@@ -1,4 +1,4 @@
-# babylon101
+# BabylonJS 101 Demo with Static Web Apps Development
 
 ## Project setup
 ```
